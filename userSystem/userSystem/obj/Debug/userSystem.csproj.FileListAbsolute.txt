@@ -1,0 +1,4 @@
+D:\coding\Workspaces\C#_WORK\userSystem\userSystem\bin\userSystem.dll
+D:\coding\Workspaces\C#_WORK\userSystem\userSystem\bin\userSystem.pdb
+D:\coding\Workspaces\C#_WORK\userSystem\userSystem\obj\Debug\userSystem.dll
+D:\coding\Workspaces\C#_WORK\userSystem\userSystem\obj\Debug\userSystem.pdb

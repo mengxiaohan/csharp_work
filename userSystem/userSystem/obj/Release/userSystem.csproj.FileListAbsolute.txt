@@ -1,0 +1,5 @@
+D:\coding\Workspaces\C#_WORK\userSystem\userSystem\bin\userSystem.dll
+D:\coding\Workspaces\C#_WORK\userSystem\userSystem\bin\userSystem.pdb
+D:\coding\Workspaces\C#_WORK\userSystem\userSystem\bin\mysql.data.dll
+D:\coding\Workspaces\C#_WORK\userSystem\userSystem\obj\Release\userSystem.dll
+D:\coding\Workspaces\C#_WORK\userSystem\userSystem\obj\Release\userSystem.pdb
