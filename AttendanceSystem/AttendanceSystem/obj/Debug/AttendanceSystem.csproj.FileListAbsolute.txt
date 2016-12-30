@@ -1,0 +1,5 @@
+D:\coding\Workspaces\C#_WORK\AttendanceSystem\AttendanceSystem\bin\AttendanceSystem.dll
+D:\coding\Workspaces\C#_WORK\AttendanceSystem\AttendanceSystem\bin\AttendanceSystem.pdb
+D:\coding\Workspaces\C#_WORK\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.dll
+D:\coding\Workspaces\C#_WORK\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.pdb
+D:\coding\Workspaces\C#_WORK\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.csprojResolveAssemblyReference.cache
